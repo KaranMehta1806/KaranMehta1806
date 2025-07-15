@@ -44,13 +44,7 @@ My coding style emphasizes:
 | [Wanderlust](https://github.com/KaranMehta1806/Wanderlust1.git) | 🏡 Airbnb-like rental platform with authentication and listings | 🍃 MongoDB · ⚙️ Express.js · 🟢 Node.js · 🅱️ Bootstrap · 📄 EJS |
 | [Weather App](https://github.com/KaranMehta1806/WeatherProject.git) | 🌦️ Live weather app displaying city-wise conditions | ⚛️ React · 🧩 MUI · 🎨 CSS Modules |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranMehta1806&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-</p>
 
 ---
 
