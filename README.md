@@ -50,7 +50,6 @@ My coding style emphasizes:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaranMehta1806&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMehta1806&theme=tokyonight" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
