@@ -20,9 +20,9 @@ I'm a dedicated **Full Stack Developer** with a strong focus on the **MERN stack
 I love building robust web applications with clean architecture, responsive design, and a seamless user experience.
 
 My coding style emphasizes:
-- ✅ Maintainable & modular code
-- ✅ RESTful APIs and secure backend logic
-- ✅ Intuitive UI with responsive, elegant design
+- ✅ Maintainable & modular code  
+- ✅ RESTful APIs and secure backend logic  
+- ✅ Intuitive UI with responsive, elegant design  
 
 ---
 
@@ -31,7 +31,7 @@ My coding style emphasizes:
 - 🖼️ **Frontend:** ⚛️ React.js · 🌐 HTML5 · 🎨 CSS3 · 🅱️ Bootstrap · 🌪️ Tailwind CSS · 🧩 MUI  
 - 🖥️ **Backend:** 🟢 Node.js · ⚙️ Express.js  
 - 🗄️ **Database:** 🍃 MongoDB · 🐬 MySQL  
-- 🛠️ **Tools & Platforms:** 🧰 Git · 🐙 GitHub · 🔁 Postman · 🚀 Render · 🌐 Vercel
+- 🛠️ **Tools & Platforms:** 🧰 Git · 🐙 GitHub · 🔁 Postman · 🚀 Render · 🌐 Vercel  
 
 ---
 
@@ -44,7 +44,18 @@ My coding style emphasizes:
 | [Wanderlust](https://github.com/KaranMehta1806/Wanderlust1.git) | 🏡 Airbnb-like rental platform with authentication and listings | 🍃 MongoDB · ⚙️ Express.js · 🟢 Node.js · 🅱️ Bootstrap · 📄 EJS |
 | [Weather App](https://github.com/KaranMehta1806/WeatherProject.git) | 🌦️ Live weather app displaying city-wise conditions | ⚛️ React · 🧩 MUI · 🎨 CSS Modules |
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranMehta1806&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMehta1806&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMehta1806&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
+</p>
 
 ---
 
