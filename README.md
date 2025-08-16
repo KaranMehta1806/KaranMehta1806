@@ -46,16 +46,6 @@ My coding style emphasizes:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranMehta1806&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranMehta1806&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranMehta1806&theme=tokyonight" alt="GitHub Streak Stats" height="165"/>
-</p>
 
 ---
 
