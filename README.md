@@ -46,6 +46,16 @@ My coding style emphasizes:
 
 ---
 
+### 🏅 Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark - Opened PRs that were merged" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw - Closed an issue/PR within 5 minutes" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO - Merged PR without review" />
+</p>
+
+
+
 
 ---
 
