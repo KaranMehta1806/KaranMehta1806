@@ -31,7 +31,7 @@ My coding style emphasizes:
 - 🖼️ **Frontend:** ⚛️ React.js · 🌐 HTML5 · 🎨 CSS3 · 🅱️ Bootstrap · 🌪️ Tailwind CSS · 🧩 MUI  
 - 🖥️ **Backend:** 🟢 Node.js · ⚙️ Express.js  
 - 🗄️ **Database:** 🍃 MongoDB · 🐬 MySQL  
-- 🛠️ **Tools & Platforms:** 🧰 Git · 🐙 GitHub · 🔁 Postman · 🚀 Render · 🌐 Vercel  
+- 🛠️ **Tools & Platforms:** 🧰 Git · 🐙 GitHub · 🔁 Postman · ⚡ Hoppscotch · 🌩️ Thunder Client · 🚀 Render · 🌐 Vercel
 
 ---
 
