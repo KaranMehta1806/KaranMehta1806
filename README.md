@@ -35,14 +35,14 @@ My coding style emphasizes:
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-| 📁 **Project** | 📝 **Description** | 🧰 **Tech Stack** |
-|---------------|--------------------|-------------------|
-| [DoorstepService](https://github.com/KaranMehta1806/DoorStepService.git) | 🏠 Home service booking platform for cleaning, repairs & more | ⚛️ React · ⚙️ Express.js · 🟢 Node.js · 🍃 MongoDB |
-| [Library Management](https://github.com/KaranMehta1806/Library-Management.git) | 📚 Book issue/return system with fine tracking and user/admin roles | ⚛️ React · ⚙️ Express.js · 🟢 Node.js · 🍃 MongoDB |
-| [Wanderlust](https://github.com/KaranMehta1806/Wanderlust1.git) | 🏡 Airbnb-like rental platform with authentication and listings | 🍃 MongoDB · ⚙️ Express.js · 🟢 Node.js · 🅱️ Bootstrap · 📄 EJS |
-| [Weather App](https://github.com/KaranMehta1806/WeatherProject.git) | 🌦️ Live weather app displaying city-wise conditions | ⚛️ React · 🧩 MUI · 🎨 CSS Modules |
+| Project | Description | Tech Stack |
+|-------|------------|-----------|
+| **[DoorstepService](https://github.com/KaranMehta1806/DoorStepService.git)** | Home service booking platform for cleaning, repairs & maintenance | React · Node.js · Express · MongoDB |
+| **[Library Management System](https://github.com/KaranMehta1806/Library-Management.git)** | Role-based system for book issue/return, fines, and user management | React · Node.js · Express · MongoDB |
+| **[Wanderlust](https://github.com/KaranMehta1806/Wanderlust1.git)** | Airbnb-style rental platform with authentication and listings | Node.js · Express · MongoDB · EJS · Bootstrap |
+| **[Weather App](https://github.com/KaranMehta1806/WeatherProject.git)** | Live weather application with city-based forecasts | React · MUI · CSS Modules |
 
 ---
 
